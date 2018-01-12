@@ -1,0 +1,25 @@
+{
+  "name": "rocket-shop",
+  "version": "1.0.0",
+  "description": "A subscription tool",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "moment": "^2.20.1"
+  },
+  "devDependencies": {
+    "mocha": "^4.1.0",
+    "sinon": "^4.1.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "author": "Duy Tu",
+  "license": "ISC"
+}
