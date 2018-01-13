@@ -13,6 +13,7 @@
   "author": "Duy Tu",
   "license": "ISC",
   "dependencies": {
+    "async": "^2.6.0",
     "moment": "^2.20.1",
     "underscore": "^1.8.3"
   },
