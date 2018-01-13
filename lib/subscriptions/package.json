@@ -1,0 +1,19 @@
+{
+  "name": "subscriptions",
+  "version": "1.0.0",
+  "description": "The subscription module for Rocket Shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "author": "Duy Tu",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.20.1",
+    "underscore": "^1.8.3"
+  }
+}
